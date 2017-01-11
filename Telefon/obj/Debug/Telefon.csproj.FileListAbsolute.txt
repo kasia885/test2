@@ -1,0 +1,14 @@
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\bin\Debug\Telefon.exe.config
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\Telefon.csprojResolveAssemblyReference.cache
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\MainWindow.g.cs
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\App.g.cs
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\Telefon_MarkupCompile.cache
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\Telefon_MarkupCompile.lref
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\bin\Debug\Telefon.exe
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\bin\Debug\Telefon.pdb
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\MainWindow.baml
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\Telefon.g.resources
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\Telefon.Properties.Resources.resources
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\Telefon.csproj.GenerateResource.Cache
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\Telefon.exe
+c:\users\kasia\documents\visual studio 2015\Projects\Telefon\Telefon\obj\Debug\Telefon.pdb
